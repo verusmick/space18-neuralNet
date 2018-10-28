@@ -1,4 +1,5 @@
 # SpaceApps 2018  - Artificial Neuronal Network
+# Team: POLYNOMIAL CHAOS
 # Challenge Name : POLAR OPPOSITES
 
 ## Description
