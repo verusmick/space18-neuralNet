@@ -1,6 +1,6 @@
 # SpaceApps 2018  - Artificial Neuronal Network
 # Team: Polynomial Chaos
-# Challenge Name : POLAR OPPOSITES
+### Challenge Name : POLAR OPPOSITES
 
 ## Description
 Design a data analysis and/or visualization tool to show the spatial and temporal changes in Arctic and Antarctic ice to a general audience.
