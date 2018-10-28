@@ -1,8 +1,11 @@
-# SpaceApps 2018  - Neural Net model
+# SpaceApps 2018  - Artificial Neuronal Network
 # Challenge Name : POLAR OPPOSITES
 
 ## Description
 Design a data analysis and/or visualization tool to show the spatial and temporal changes in Arctic and Antarctic ice to a general audience.
+
+## Objective
+This module was development to Predict poles'melting (Arctic-Antartic).
 
 ## Our sources for data (provided by NASA)
 * https://nsidc.org/data
